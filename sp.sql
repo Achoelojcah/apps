@@ -1,1 +1,1 @@
-Select * from Persona;
+Select nombre from Persona;
